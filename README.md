@@ -1,7 +1,7 @@
 ### Hi there I am Vaasu 👋
 
-- 🔭 I’m currently working on [kaggle-submissions](https://github.com/VaasuDevanS/kaggle-submissions)
-- 🌱 I’m currently learning Deep Learning, Advanced GIS Analysis
+- 🔭 I’m currently working on [deep-learning-edification](https://github.com/VaasuDevanS/deep-learning-edification)
+- 🌱 I’m currently into Deep Learning, Advanced Spatial Analysis
 - 💬 Ask me about GIS, Python, ESRI products
 - 📫 How to reach me: [vaasuceg.96@gmail.com](mailto:vaasuceg.96.com)
 - ⚡ Fun fact: When you have eliminated the impossible, whatever remains, however improbable, must be the truth
