@@ -1,9 +1,11 @@
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=VaasuDevanS&show_icons=true&rank_icon=percentile">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
-### Portfolio - [vaasudevans.github.io](https://vaasudevans.github.io/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hello%2C+it's+Vaasudevan;Python+Developer;GIS+Analyst)](https://git.io/typing-svg)
 
-[![Downloads](https://static.pepy.tech/personalized-badge/cowsay?period=total&units=international_system&left_color=black&right_color=blue&left_text=Cowsay%20-%20downloads)](https://pepy.tech/project/cowsay)
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,django,postgres,js,git,github,pycharm,linux,rust,r)](https://skillicons.dev)
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaasudevans/)
+### Connect with me!
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vaasudevans/)
 
-![](https://komarev.com/ghpvc/?username=VaasuDevanS&style=for-the-badge)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
